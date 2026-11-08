@@ -1,4 +1,0 @@
-<h1>Index</h1>
-<a href="2.html">link on page</a>
-<h1>Index</h1>
-<a href="1.html">link on page</a>
